@@ -35,3 +35,8 @@ app.get('*', (req, res) =>
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT}`)
 );
+
+
+
+//still more files to add. Use solution to miniproject as a means to accomplish this!  Will need to check and test ALL LINKS.
+//double check bootcamp for acceptance criteria.
