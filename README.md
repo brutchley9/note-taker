@@ -2,7 +2,8 @@
 
 
 For this week's challenge, I will be utilizing front-end starter code to develop a back-end web application that will allow the user to write, save and delete notes online. This will be accomplished by utilizing knowledge of JSON data persistence and entry, as well as Express.js and Insomnia. This project will also be deployed to Heroku, with all necessary links provided below.
-    
+
+IMPORTANT: must install Express.js version 4.16.4, as well as UUID version 8.3.2 as dependencies within your package.json file before running this application on the back-end!
 
 ---
     
