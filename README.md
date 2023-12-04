@@ -9,7 +9,7 @@ For this week's challenge, I will be utilizing front-end starter code to develop
 
 Follow link https://github.com/brutchley9/note-taker to access GitHub repository for this website (including code)!
 
-Follow link [               ] to access URL for this website as deployed through Heroku!
+Follow link https://afternoon-coast-09151-4dd1ced92906.herokuapp.com/ to access URL for this website as deployed through Heroku!
 
 
 ---
@@ -18,11 +18,3 @@ Follow link [               ] to access URL for this website as deployed through
 # Resources
     
 <li>https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true</li>
-    
-<li></li>
-    
-<li></li>
-
-<li></li>
-
-<li></li>
