@@ -18,9 +18,9 @@ app.use('/api', api);
 app.use(express.static('public'));
 
 // GET Route for homepage
-app.get('/', (req, res) =>
+/*app.get('/', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
-);
+);*/
 
 // GET Route for feedback page
 app.get('/notes', (req, res) =>
@@ -29,7 +29,7 @@ app.get('/notes', (req, res) =>
 
 // Wildcard route to direct users to a 404 page
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, 'public/404.html'))
+  res.sendFile(path.join(__dirname, 'public/index.html'))
 );
 
 app.listen(PORT, () =>
