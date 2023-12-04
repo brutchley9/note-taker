@@ -18,3 +18,9 @@ Follow link https://afternoon-coast-09151-4dd1ced92906.herokuapp.com/ to access 
 # Resources
     
 <li>https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true</li>
+    
+<li>https://expressjs.com/en/4x/api.html#router</li>
+    
+<li>https://expressjs.com/en/guide/writing-middleware.html</li>
+
+<li>https://devcenter.heroku.com/articles/heroku-cli-commands</li>
